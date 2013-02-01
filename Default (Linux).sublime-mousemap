@@ -1,0 +1,4 @@
+[
+	{ "button": "scroll_up", "modifiers": ["ctrl"], "command": "control_scroll" },
+	{ "button": "scroll_down", "modifiers": ["ctrl"], "command": "control_scroll", "args": {"down": true} }
+]

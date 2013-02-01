@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "Control+Scroll: fast scroll",
+        "command": "control_scroll"
+    },
+    {
+        "caption": "Control+Scroll: fast scroll",
+        "command": "control_scroll",
+        "args": {"down": true}
+    }
+]
